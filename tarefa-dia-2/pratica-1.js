@@ -1,0 +1,5 @@
+let meuNome = 'Guilherme'
+let meuEmail = 'marins0guilherme@gmail.com'
+let profissao = 'Estudante de programação'
+let minhaIdade = '25 anos'
+let viagemDosSonhos = 'Japão'
